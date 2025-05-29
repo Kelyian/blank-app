@@ -1,6 +1,9 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title(" My new app")
+st.write("This is a sample web app")
+
+first_name = st.text_input("First name")
+last_name = st.text_input("Last name")
+
+

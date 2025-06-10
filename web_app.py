@@ -13,7 +13,7 @@ with col1:
 with col2:
     st.write('')
 with col3:
-    st.write('')
+    st.title('WAGE')
 with col4:
     st.write('')
 with col5:
